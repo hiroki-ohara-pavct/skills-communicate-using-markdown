@@ -14,6 +14,6 @@ var myVar = "Hello World"
 -[×] This item is complete
 -[ ] This item is not complete
 
--[ ] Turn on GitHub Pages
+-[×] Turn on GitHub Pages
 -[ ] Outline my portfolio
--[ ] Intriduce myself to the world
+-[×] Intriduce myself to the world
